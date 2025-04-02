@@ -1,0 +1,51 @@
+body {
+    background-color: #1f3c5b;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: transparent;
+    padding: 15px 0;
+}
+
+.navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+    color: white;
+    margin-right: 15px;
+}
+
+.hero {
+    padding: 100px 0;
+    text-align: left;
+}
+
+.hero h1 {
+    font-size: 42px;
+    font-weight: bold;
+}
+
+.hero p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    background-color: #42b3f5;
+    border: none;
+    padding: 10px 20px;
+}
+
+.btn-outline-light {
+    color: white;
+    border-color: white;
+    padding: 10px 20px;
+}
+
+img {
+    max-width: 100%;
+}
